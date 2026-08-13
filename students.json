@@ -1,42 +1,10 @@
 [
   {
-    "id": "STU001",
-    "name": "Aarav Sharma",
-    "mobile": "9876543210",
-    "email": "aarav.sharma@gmail.com",
+    "id": 1,
+    "name": "Vanshika Meena",
+    "email": "meenavanshika54@gmail.com",
+    "mobile": "8619673951",
     "branch": "CSE",
-    "password": "aarav123"
-  },
-  {
-    "id": "STU002",
-    "name": "Ananya Patel",
-    "mobile": "9812345678",
-    "email": "ananya.patel@gmail.com",
-    "branch": "CSE-AI",
-    "password": "ananya123"
-  },
-  {
-    "id": "STU003",
-    "name": "Rohan Verma",
-    "mobile": "9765432109",
-    "email": "rohan.verma@gmail.com",
-    "branch": "ECE",
-    "password": "rohan123"
-  },
-  {
-    "id": "STU004",
-    "name": "Priya Singh",
-    "mobile": "9654321098",
-    "email": "priya.singh@gmail.com",
-    "branch": "IT",
-    "password": "priya123"
-  },
-  {
-    "id": "STU005",
-    "name": "Karan Gupta",
-    "mobile": "9543210987",
-    "email": "karan.gupta@gmail.com",
-    "branch": "ME",
-    "password": "karan123"
+    "password": "Vanshika123"
   }
 ]
